@@ -1,4 +1,5 @@
 [
     "https://facileexplorer.sagesandbox.org/oauth2/idpresponse",
-    "https://facile.imcore.io/oauth2/idpresponse"
+    "https://facile.imcore.io/oauth2/idpresponse",
+    "https://abacus.imcore.io/oauth2/idpresponse"
 ]
